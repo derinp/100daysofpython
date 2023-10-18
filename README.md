@@ -7,4 +7,5 @@ In this repo, we will start on day 27.
 
 Below youll find all the days projects:
 
-Day 27: Distance converter
+Day 27: Distance converter with GUI
+day 28: Pomodoro timer with GUI
