@@ -13,3 +13,5 @@ Day 27: Distance converter with GUI
 day 28: Pomodoro timer with GUI
 
 day 29: Local password manager
+
+day 30: updated password manager
