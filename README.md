@@ -15,3 +15,5 @@ day 28: Pomodoro timer with GUI
 day 29: Local password manager
 
 day 30: updated password manager
+
+day 32: flashcard app
