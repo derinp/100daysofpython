@@ -17,3 +17,5 @@ day 29: Local password manager
 day 30: updated password manager
 
 day 32: flashcard app
+
+day33-day40: Html and CSS projects
