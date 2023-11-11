@@ -1,0 +1,15 @@
+body{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    background-color: black;
+}
+
+img{
+    border: 5px solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;   
+}
+
